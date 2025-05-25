@@ -2,3 +2,4 @@ streamlit    # released 25 Mar 2025 :contentReference[oaicite:0]{index=0}
 numpy         # released 19 Apr 2025 :contentReference[oaicite:1]{index=1}
 matplotlib   # released 27 Feb 2025 :contentReference[oaicite:2]{index=2}
 PyWavelets
+plotly
